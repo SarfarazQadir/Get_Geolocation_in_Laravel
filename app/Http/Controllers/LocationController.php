@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 use Stevebauman\Location\Facades\Location;
 
 
+// Controller of Geolocation
+
 class LocationController extends Controller
 {
     public function index(Request $request){
