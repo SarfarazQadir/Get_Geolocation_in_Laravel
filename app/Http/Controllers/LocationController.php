@@ -1,5 +1,5 @@
 <?php
-
+// Namespaces
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
